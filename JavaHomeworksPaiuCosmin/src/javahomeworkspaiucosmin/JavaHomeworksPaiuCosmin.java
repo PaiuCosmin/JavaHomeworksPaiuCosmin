@@ -16,6 +16,8 @@ public class JavaHomeworksPaiuCosmin {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        
     }
     
 }
