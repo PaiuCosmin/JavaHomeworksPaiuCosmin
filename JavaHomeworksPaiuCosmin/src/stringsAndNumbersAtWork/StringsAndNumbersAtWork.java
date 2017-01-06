@@ -49,7 +49,7 @@ public class StringsAndNumbersAtWork {
       
         String myName = "Paiu Cosmin Aurelian";
         
-        for (int i = 0; i <= myName.length(); i++){
+        for (int i = 0; i < myName.length(); i++){
         char letter = myName.charAt(i);
         System.out.println(letter);
         }
